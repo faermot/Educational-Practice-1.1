@@ -1,5 +1,5 @@
 # Учебная практика 1.1
-(Console)
+`(Console)`
 
 <img src="https://github.com/user-attachments/assets/d423572f-49d6-4d3d-af2a-02381d6e2863" width="145" />
 
